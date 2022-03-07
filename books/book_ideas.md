@@ -11,3 +11,4 @@
 - [ ] Care and feeding of developers
 - [ ] Debugging with the Grace Hopper Method
 - [ ] Open the world to the future
+- [ ] Bring happiness to chicken
